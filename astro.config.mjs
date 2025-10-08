@@ -9,5 +9,5 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: "https://Sofmer7.github.io",
-  base: "/vacunacion/vacunacion",
+  base: "/vacunacionverdadera",
 });
